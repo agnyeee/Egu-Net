@@ -1,1 +1,1 @@
-Place the original `Samson.mat` and `Samson_GT.mat` files in this folder. They were not present in the inspected workspace and are not redistributed here. The loader validates expected Samson dimensions before training.
+
