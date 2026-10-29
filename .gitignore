@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+data/processed/*
+outputs/samson/checkpoints/*.pt
+outputs/samson/figures/*
+outputs/samson/metrics/*
+outputs/samson/features/*
+outputs/samson/logs/*
+!data/processed/.gitkeep
+!outputs/samson/checkpoints/.gitkeep
+!outputs/samson/figures/.gitkeep
+!outputs/samson/metrics/.gitkeep
+!outputs/samson/features/.gitkeep
+!outputs/samson/logs/.gitkeep

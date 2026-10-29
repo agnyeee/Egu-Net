@@ -1,0 +1,6 @@
+# Install PyTorch separately for your machine/driver. It is intentionally not pinned here.
+numpy
+scipy
+matplotlib
+scikit-learn
+jupyter
